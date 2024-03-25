@@ -16,7 +16,7 @@ During the deployment stage, the software is deployed to production or staging e
 5. Maintenance Stage
 The maintenance stage involves ongoing support and maintenance of the software product. This includes addressing bug fixes, implementing updates, and providing technical support to end-users. Example: Monitoring application performance, responding to user feedback, and releasing patches or updates as needed.
 
-Once you have created and edited the "readMe.md" file with this content, you can commit the changes to your local Git repository and push them to a remote repository if desired.
+ 
 
 
  
